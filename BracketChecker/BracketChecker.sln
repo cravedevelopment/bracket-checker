@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32414.318
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpressionChecker", "ExpressionChecker\ExpressionChecker.csproj", "{BCF1D38C-F263-4220-BC2B-3E810D5F7544}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExpressionChecker", "ExpressionChecker\ExpressionChecker.csproj", "{BCF1D38C-F263-4220-BC2B-3E810D5F7544}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpressionCheckerTest", "ExpressionCheckerTest\ExpressionCheckerTest.csproj", "{848348CE-15CD-4C98-8D91-FEC1B93537C5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExpressionCheckerTest", "ExpressionCheckerTest\ExpressionCheckerTest.csproj", "{848348CE-15CD-4C98-8D91-FEC1B93537C5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BracketCheckerConsole", "BracketCheckerConsole\BracketCheckerConsole.csproj", "{37E272CA-B6AC-4CC2-92AF-D6647F216CE9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BracketCheckerConsole", "BracketCheckerConsole\BracketCheckerConsole.csproj", "{37E272CA-B6AC-4CC2-92AF-D6647F216CE9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
