@@ -1,2 +1,2 @@
 # bracket-checker
-A simple method to validate brackets are balanced in an expression
+A simple method to validate if brackets are balanced in an expression
